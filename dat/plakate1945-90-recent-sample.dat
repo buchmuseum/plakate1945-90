@@ -1,73 +1,75 @@
 
---0500 Aa Pa, wenn IMD B
---0501 {IMD}
+0500 Pa
+0501 Text$btxt
+0501 unbewegtes Bild$bsti
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1100 1948
-1110 *1948$4ezth
+1100 1967$n[1967?]
+1110 1967?*1967$4ezth
 1130 TB-papier
 1130 !040445224!
 1131 !04046198X!
 1132 a1-analog;a2-druck;f2-blatt
-1500 /1ger
-1700 /1XA-DE
+1500 /1hun
+1700 /1XA-HU
 2105 04,P01
-4000 Plakat Nr. 1945-90/1224 der Plakatsammlung 1945-1990
-4019 Plakat Nr. 1945-90/1224 der Plakatsammlung 1945-1990
-4030 [Sowjetische Besatzungszone] : [Verlag nicht ermittelbar]
+4000 Plakat Nr. 1945-90/1058 der Plakatsammlung 1945-1990
+4019 Plakat Nr. 1945-90/1058 der Plakatsammlung 1945-1990
+4030 [Erscheinungsort nicht ermittelbar] : [Verlag nicht ermittelbar]
 4060 1 Blatt
 4062 Format B
 4105 !1238824013!
-4201 Handschriftliche Notiz und Stempel auf RS
 4276 nachträglich durch Auswertung der 4201
-4801 Faltspuren
+4801 Risse kleiner als 3 cm
 5590 [Objektgattung]
 5590 !041133579!
 6800 [Provenienz]
 6800 !004709608! *1961-1993
 6800 Stempel
-7001 25-02-22 : x
-7100 GS PL 1945-90/1224 @ m
-7109 !!DBSM/S!! ; GS PL 1945-90/1224
+7001 28-02-22 : x
+7100 GS PL 1945-90/1058 @ m
+7109 !!DBSM/S!! ; GS PL 1945-90/1058
 8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.
-8598 P69/128
+8598 P68/129
 
---0500 Aa Pa, wenn IMD B
---0501 {IMD}
+0500 Pa
+0501 Text$btxt
+0501 unbewegtes Bild$bsti
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1100 1946
-1110 *1946$4ezth
+1100 1973
+1110 *1973$4ezth
 1130 TB-papier
 1130 !040445224!
 1131 !04046198X!
 1132 a1-analog;a2-druck;f2-blatt
 1500 /1ger
-1700 /1XA-DE
+1700 /1XA-DDDE
 2105 04,P01
-4000 Plakat Nr. 1945-90/651 der Plakatsammlung 1945-1990
-4019 Plakat Nr. 1945-90/651 der Plakatsammlung 1945-1990
-4030 [Sowjetische Besatzungszone] : [Verlag nicht ermittelbar]
+4000 Plakat Nr. 1945-90/1314 der Plakatsammlung 1945-1990
+4019 Plakat Nr. 1945-90/1314 der Plakatsammlung 1945-1990
+4030 [DDR] : [Verlag nicht ermittelbar]
 4060 1 Blatt
-4062 Format C
+4062 Format B
 4105 !1238824013!
-4201 Doppelseitig bedrucktes Plakat; Bleistiftnotiz; Rückseite durchgestrichen
 4276 nachträglich durch Auswertung der 4201
+4700 |BSM|2 Dubl. entnommen
 5590 [Objektgattung]
 5590 !041133579!
 6800 [Provenienz]
 6800 !004709608! *1961-1993
 6800 Stempel
-7001 25-02-22 : x
-7100 GS PL 1945-90/651 @ m
-7109 !!DBSM/S!! ; GS PL 1945-90/651
+7001 28-02-22 : x
+7100 GS PL 1945-90/1314 @ m
+7109 !!DBSM/S!! ; GS PL 1945-90/1314
 8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.
-8598 P66/678
+8598 73/2/P1
 
---0500 Aa Pa, wenn IMD B
---0501 {IMD}
+0500 Pa
+0501 Text$btxt
+0501 unbewegtes Bild$bsti
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
@@ -80,11 +82,11 @@
 1500 /1ger
 1700 /1XA-DDDE
 2105 04,P01
-4000 Plakat Nr. 1945-90/4 der Plakatsammlung 1945-1990
-4019 Plakat Nr. 1945-90/4 der Plakatsammlung 1945-1990
+4000 Plakat Nr. 1945-90/409 der Plakatsammlung 1945-1990
+4019 Plakat Nr. 1945-90/409 der Plakatsammlung 1945-1990
 4030 [DDR] : [Verlag nicht ermittelbar]
 4060 1 Blatt
-4062 Format B
+4062 Format D
 4105 !1238824013!
 4276 nachträglich durch Auswertung der 4201
 5590 [Objektgattung]
@@ -92,14 +94,49 @@
 6800 [Provenienz]
 6800 !004709608! *1961-1993
 6800 Stempel
-7001 25-02-22 : x
-7100 GS PL 1945-90/4 @ m
-7109 !!DBSM/S!! ; GS PL 1945-90/4
+7001 28-02-22 : x
+7100 GS PL 1945-90/409 @ m
+7109 !!DBSM/S!! ; GS PL 1945-90/409
 8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.
-8598 P66/61
+8598 P66/462
 
---0500 Aa Pa, wenn IMD B
---0501 {IMD}
+0500 Pa
+0501 Text$btxt
+0501 unbewegtes Bild$bsti
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1955
+1110 *1955$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !04046198X!
+1132 a1-analog;a2-druck;f2-blatt
+1500 /1ger
+1700 /1XA-DDDE
+2105 04,P01
+4000 Plakat Nr. 1945-90/570 der Plakatsammlung 1945-1990
+4019 Plakat Nr. 1945-90/570 der Plakatsammlung 1945-1990
+4030 [DDR] : [Verlag nicht ermittelbar]
+4060 1 Blatt
+4062 Format B
+4105 !1238824013!
+4201 Beziehung zu 1945-90/571
+4276 nachträglich durch Auswertung der 4201
+5590 [Objektgattung]
+5590 !041133579!
+6800 [Provenienz]
+6800 !004709608! *1961-1993
+6800 Stempel
+7001 28-02-22 : x
+7100 GS PL 1945-90/570 @ m
+7109 !!DBSM/S!! ; GS PL 1945-90/570
+8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.
+8598 P66/564
+
+0500 Pa
+0501 Text$btxt
+0501 unbewegtes Bild$bsti
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
@@ -112,13 +149,12 @@
 1500 /1ger
 1700 /1XA-DDDE
 2105 04,P01
-4000 Plakat Nr. 1945-90/549 der Plakatsammlung 1945-1990
-4019 Plakat Nr. 1945-90/549 der Plakatsammlung 1945-1990
+4000 Plakat Nr. 1945-90/548 der Plakatsammlung 1945-1990
+4019 Plakat Nr. 1945-90/548 der Plakatsammlung 1945-1990
 4030 [DDR] : [Verlag nicht ermittelbar]
 4060 1 Blatt
 4062 Format E
 4105 !1238824013!
-4201 Beziehung zu 1945-90/548
 4276 nachträglich durch Auswertung der 4201
 4801 gefaltete Plakate; E-Format auf B-Format gefaltet
 5590 [Objektgattung]
@@ -126,42 +162,8 @@
 6800 [Provenienz]
 6800 !004709608! *1961-1993
 6800 Stempel
-7001 25-02-22 : x
-7100 GS PL 1945-90/549 @ m
-7109 !!DBSM/S!! ; GS PL 1945-90/549
+7001 28-02-22 : x
+7100 GS PL 1945-90/548 @ m
+7109 !!DBSM/S!! ; GS PL 1945-90/548
 8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.
-8598 P66/543
-
---0500 Aa Pa, wenn IMD B
---0501 {IMD}
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1100 1965
-1110 *1965$4ezth
-1130 TB-papier
-1130 !040445224!
-1131 !04046198X!
-1132 a1-analog;a2-druck;f2-blatt
-1500 /1ger
-1700 /1XA-DDDE
-2105 04,P01
-4000 Plakat Nr. 1945-90/788 der Plakatsammlung 1945-1990
-4019 Plakat Nr. 1945-90/788 der Plakatsammlung 1945-1990
-4030 [DDR] : [Verlag nicht ermittelbar]
-4060 1 Blatt
-4062 Format D
-4105 !1238824013!
-4201 Notizen auf RS
-4276 nachträglich durch Auswertung der 4201
-4700 |BSM|1 Dubl. (ist P 66/819)
-5590 [Objektgattung]
-5590 !041133579!
-6800 [Provenienz]
-6800 !004709608! *1961-1993
-6800 Stempel
-7001 25-02-22 : x
-7100 GS PL 1945-90/788 @ m
-7109 !!DBSM/S!! ; GS PL 1945-90/788
-8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.
-8598 P66/820
+8598 P66/542

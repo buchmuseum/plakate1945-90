@@ -1,79 +1,11 @@
 
 0500 Pa
 0501 Text$btxt
-0501 unbewegtes Bild$bsti
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1100 1984
-1110 *1984$4ezth
-1130 TB-papier
-1130 !040445224!
-1131 !04046198X!
-1132 a1-analog;a2-druck;f2-blatt
-1500 /1ger
-1700 /1XA-DDDE
-2105 04,P01
-4000 Plakat Nr. 1945-90/7148 der Plakatsammlung 1945-1990
-4019 Plakat Nr. 1945-90/7148 der Plakatsammlung 1945-1990
-4030 [DDR] : [Verlag nicht ermittelbar]
-4060 1 ungezähltes Blatt
-4062 Format B
-4105 !1238824013!
-4276 nachträglich durch Auswertung der 4201
-5590 [Objektgattung]
-5590 !041133579!
-7001 01-03-22 : x
-7100 GS PL 1945-90/7148 @ m
-6800 [Provenienz]
-6800 !004709608! *1961-1993
-6800 Stempel
-7109 !!DBSM/S!! ; GS PL {row.Signatur}
-8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.
-8598 86/119/P97
-
-0500 Pa
-0501 Text$btxt
-0501 unbewegtes Bild$bsti
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1100 1950
-1110 *1950$4ezth
-1130 TB-papier
-1130 !040445224!
-1131 !04046198X!
-1132 a1-analog;a2-druck;f2-blatt
-1500 /1ger
-1700 /1XA-DDDE
-2105 04,P01
-4000 Plakat Nr. 1945-90/5653 der Plakatsammlung 1945-1990
-4019 Plakat Nr. 1945-90/5653 der Plakatsammlung 1945-1990
-4030 [DDR] : [Verlag nicht ermittelbar]
-4060 1 ungezähltes Blatt
-4062 Format D
-4105 !1238824013!
-4201 handschriftliche Notiz auf RS Notiz auf RS
-4276 nachträglich durch Auswertung der 4201
-5590 [Objektgattung]
-5590 !041133579!
-7001 01-03-22 : x
-7100 GS PL 1945-90/5653 @ m
-4801 Risse kleiner als 3 cm; Faltspuren
-6800 [Provenienz]
-6800 !004709608! *1961-1993
-6800 Stempel
-7109 !!DBSM/S!! ; GS PL {row.Signatur}
-8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.
-8598 78/68/P305(1)
-
-0500 Pa
-0501 Text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1100 1946
-1110 *1946$4ezth
+1100 1945
+1110 *1945$4ezth
 1130 TB-papier
 1130 !040445224!
 1131 !04046198X!
@@ -81,18 +13,17 @@
 1500 /1ger
 1700 /1XA-DE
 2105 04,P01
-4000 Plakat Nr. 1945-90/11550 der Plakatsammlung 1945-1990
-4019 Plakat Nr. 1945-90/11550 der Plakatsammlung 1945-1990
-4030 [Dresden] : [Verlag nicht ermittelbar]
+4000 Plakat Nr. 1945-90/13260 der Plakatsammlung 1945-1990
+4019 Plakat Nr. 1945-90/13260 der Plakatsammlung 1945-1990
+4030 [Gera] : [Verlag nicht ermittelbar]
 4060 1 ungezähltes Blatt
-4062 Format B
+4062 Format A
 4105 !1238824013!
 4276 nachträglich durch Auswertung der 4201
 5590 [Objektgattung]
 5590 !041133579!
 7001 01-03-22 : x
-7100 GS PL 1945-90/11550 @ m
-4801 Risse größer als 3 cm, Verschmutzung; Faltspuren
+7100 GS PL 1945-90/13260 @ m
 6800 [Provenienz]
 6800 !004709608! *1961-1993
 6800 Stempel
@@ -105,8 +36,8 @@
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1100 1954
-1110 *1954$4ezth
+1100 1951
+1110 *1951$4ezth
 1130 TB-papier
 1130 !040445224!
 1131 !04046198X!
@@ -114,24 +45,25 @@
 1500 /1ger
 1700 /1XA-DDDE
 2105 04,P01
-4000 Plakat Nr. 1945-90/154 der Plakatsammlung 1945-1990
-4019 Plakat Nr. 1945-90/154 der Plakatsammlung 1945-1990
+4000 Plakat Nr. 1945-90/2252 der Plakatsammlung 1945-1990
+4019 Plakat Nr. 1945-90/2252 der Plakatsammlung 1945-1990
 4030 [DDR] : [Verlag nicht ermittelbar]
 4060 1 ungezähltes Blatt
 4062 Format D
 4105 !1238824013!
-4201 Beziehung zu 1945-90/149-153 u. 155
+4201 Handschr. Notiz auf RS
 4276 nachträglich durch Auswertung der 4201
 5590 [Objektgattung]
 5590 !041133579!
 7001 01-03-22 : x
-7100 GS PL 1945-90/154 @ m
+7100 GS PL 1945-90/2252 @ m
+4801 Verschmutzung; Faltspuren
 6800 [Provenienz]
 6800 !004709608! *1961-1993
 6800 Stempel
 7109 !!DBSM/S!! ; GS PL {row.Signatur}
 8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.
-8598 P66/149
+8598 78/18/P100(23)
 
 0500 Pa
 0501 Text$btxt
@@ -139,8 +71,8 @@
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1100 1976
-1110 *1976$4ezth
+1100 1986
+1110 *1986$4ezth
 1130 TB-papier
 1130 !040445224!
 1131 !04046198X!
@@ -148,21 +80,89 @@
 1500 /1ger
 1700 /1XA-DDDE
 2105 04,P01
-4000 Plakat Nr. 1945-90/2455 der Plakatsammlung 1945-1990
-4019 Plakat Nr. 1945-90/2455 der Plakatsammlung 1945-1990
+4000 Plakat Nr. 1945-90/7088 der Plakatsammlung 1945-1990
+4019 Plakat Nr. 1945-90/7088 der Plakatsammlung 1945-1990
 4030 [DDR] : [Verlag nicht ermittelbar]
 4060 1 ungezähltes Blatt
-4062 Format B
+4062 Format D
 4105 !1238824013!
+4201 Beziehung zwischen 1945-90/7088-7089
 4276 nachträglich durch Auswertung der 4201
-4700 |BSM|2 Dubl. Entnommen
+4700 |BSM|1 Dublette(n) entnommen
 5590 [Objektgattung]
 5590 !041133579!
 7001 01-03-22 : x
-7100 GS PL 1945-90/2455 @ m
+7100 GS PL 1945-90/7088 @ m
 6800 [Provenienz]
 6800 !004709608! *1961-1993
 6800 Stempel
 7109 !!DBSM/S!! ; GS PL {row.Signatur}
 8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.
-8598 78/18/P139
+8598 86/72/P50
+
+0500 Pa
+0501 Text$btxt
+0501 unbewegtes Bild$bsti
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1952
+1110 *1952$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !041543718!
+1132 a1-analog;a2-druck;f2-blatt
+1500 /1ger
+1700 /1XA-DDDE
+2105 04,P01
+4000 Plakat Nr. 1945-90/9132 der Plakatsammlung 1945-1990
+4019 Plakat Nr. 1945-90/9132 der Plakatsammlung 1945-1990
+4030 [DDR] : [Verlag nicht ermittelbar]
+4060 1 ungezähltes Blatt
+4062 Format B
+4105 !1238824013!
+4201 Beziehung zwischen 1945-90/9132-9134
+4276 nachträglich durch Auswertung der 4201
+4700 |BSM|1 Dublette(n) entnommen
+5590 [Objektgattung]
+5590 !041133579!
+7001 01-03-22 : x
+7100 GS PL 1945-90/9132 @ m
+4801 Faltspuren, Verfärbungen
+6800 [Provenienz]
+6800 !004709608! *1961-1993
+6800 Stempel
+7109 !!DBSM/S!! ; GS PL {row.Signatur}
+8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.
+
+0500 Pa
+0501 Text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1947
+1110 *1947$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !04046198X!
+1132 a1-analog;a2-druck;f2-blatt
+1500 /1ger
+1700 /1XA-DE
+2105 04,P01
+4000 Plakat Nr. 1945-90/13291 der Plakatsammlung 1945-1990
+4019 Plakat Nr. 1945-90/13291 der Plakatsammlung 1945-1990
+4030 [Gera] : [Verlag nicht ermittelbar]
+4060 1 ungezähltes Blatt
+4062 Format B
+4105 !1238824013!
+4201 handschriftliche Notiz auf RS "Deutsche Bücherei"
+4276 nachträglich durch Auswertung der 4201
+5590 [Objektgattung]
+5590 !041133579!
+7001 01-03-22 : x
+7100 GS PL 1945-90/13291 @ m
+6800 [Provenienz]
+6800 !004709608! *1961-1993
+6800 Stempel
+7109 !!DBSM/S!! ; GS PL {row.Signatur}
+8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.

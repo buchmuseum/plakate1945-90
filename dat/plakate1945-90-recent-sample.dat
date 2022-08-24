@@ -1,4 +1,38 @@
-
+0500 Pa
+0501 Text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1946
+1110 *1946$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !04046198X!
+1132 a1-analog;a2-druck;f2-blatt
+1500 /1ger
+1700 /1XA-DE
+2105 04,P01
+4000 Plakat Nr. 1945-90/5178 der Plakatsammlung 1945-1990
+4019 Plakat Nr. 1945-90/5178 der Plakatsammlung 1945-1990
+4030 [Deutschland unter alliierter Besatzung] : [Verlag nicht ermittelbar]
+4060 1 ungezähltes Blatt
+4062 Format B
+4105 !1238824013!
+4201 Spruchband
+4700 |BSM|*2 Dubl. Entnommen
+5590 [Objektgattung]
+5590 !041133579!
+7001 24-08-22 : x
+4800 !009033645! 
+4801 Verfärbungen
+6800 [Provenienz]
+6800 !004709608! *1961-1993
+6800 Stempel
+7100 GS PL 1945-90/5178 @ m
+7109 !!DBSM/S!! ; GS PL 1945-90/5178
+8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.
+8598 78/68/P275(10)
+	
 0500 Pa
 0501 Text$btxt
 0501 unbewegtes Bild$bsti
@@ -14,66 +48,33 @@
 1500 /1ger
 1700 /1XA-DDDE
 2105 04,P01
-4000 Plakat Nr. 1945-90/4140 der Plakatsammlung 1945-1990
-4019 Plakat Nr. 1945-90/4140 der Plakatsammlung 1945-1990
+4000 Plakat Nr. 1945-90/2151 der Plakatsammlung 1945-1990
+4019 Plakat Nr. 1945-90/2151 der Plakatsammlung 1945-1990
 4030 [DDR] : [Verlag nicht ermittelbar]
 4060 1 ungezähltes Blatt
 4062 Format B
 4105 !1238824013!
-4276 nachträglich durch Auswertung der 4201
 5590 [Objektgattung]
 5590 !041133579!
-7001 02-03-22 : x
-7100 GS PL 1945-90/4140 @ m
-4801 Risse kleiner als 3 cm
+7001 24-08-22 : x
+4800 !009033645! 
+4801 Faltspuren
 6800 [Provenienz]
 6800 !004709608! *1961-1993
 6800 Stempel
-7109 !!DBSM/S!! ; GS PL {row.Signatur}
+7100 GS PL 1945-90/2151 @ m
+7109 !!DBSM/S!! ; GS PL 1945-90/2151
 8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.
-8598 78/68/P199(2)
-
-0500 Pa
-0501 Text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1100 1949
-1110 *1949$4ezth
-1130 TB-papier
-1130 !040445224!
-1131 !04046198X!
-1132 a1-analog;a2-druck;f2-blatt
-1500 /1ger
-1700 /1XA-DE
-2105 04,P01
-4000 Plakat Nr. 1945-90/2958 der Plakatsammlung 1945-1990
-4019 Plakat Nr. 1945-90/2958 der Plakatsammlung 1945-1990
-4030 [Sowjetische Besatzungszone] : [Verlag nicht ermittelbar]
-4060 1 ungezähltes Blatt
-4062 Format B
-4105 !1238824013!
-4276 nachträglich durch Auswertung der 4201
-5590 [Objektgattung]
-5590 !041133579!
-7001 02-03-22 : x
-7100 GS PL 1945-90/2958 @ m
-4801 Risse kleiner als 3 cm mit drohendem Materialverlust; Farbdurchschlag
-6800 [Provenienz]
-6800 !004709608! *1961-1993
-6800 Stempel
-7109 !!DBSM/S!! ; GS PL {row.Signatur}
-8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.
-8598 78/53/P154(31)
-
+8598 78/18/P97(18)
+	
 0500 Pa
 0501 Text$btxt
 0501 unbewegtes Bild$bsti
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1100 1970
-1110 *1970$4ezth
+1100 1978
+1110 *1978$4ezth
 1130 TB-papier
 1130 !040445224!
 1131 !04046198X!
@@ -81,32 +82,32 @@
 1500 /1ger
 1700 /1XA-DDDE
 2105 04,P01
-4000 Plakat Nr. 1945-90/1303 der Plakatsammlung 1945-1990
-4019 Plakat Nr. 1945-90/1303 der Plakatsammlung 1945-1990
+4000 Plakat Nr. 1945-90/6714 der Plakatsammlung 1945-1990
+4019 Plakat Nr. 1945-90/6714 der Plakatsammlung 1945-1990
 4030 [DDR] : [Verlag nicht ermittelbar]
 4060 1 ungezähltes Blatt
 4062 Format D
 4105 !1238824013!
-4276 nachträglich durch Auswertung der 4201
+4700 |BSM|*1 Dublette(n) entnommen
 5590 [Objektgattung]
 5590 !041133579!
-7001 02-03-22 : x
-7100 GS PL 1945-90/1303 @ m
-4801 Risse kleiner als 3 cm, Verschmutzung
+7001 24-08-22 : x
+4800 !009033645! 
 6800 [Provenienz]
 6800 !004709608! *1961-1993
 6800 Stempel
-7109 !!DBSM/S!! ; GS PL {row.Signatur}
+7100 GS PL 1945-90/6714 @ m
+7109 !!DBSM/S!! ; GS PL 1945-90/6714
 8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.
-8598 72/124/P145
-
+8598 83/69/P62
+	
 0500 Pa
 0501 Text$btxt
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1100 1946
-1110 *1946$4ezth
+1100 1950
+1110 *1950$4ezth
 1130 TB-papier
 1130 !040445224!
 1131 !04046198X!
@@ -114,25 +115,25 @@
 1500 /1ger
 1700 /1XA-DE
 2105 04,P01
-4000 Plakat Nr. 1945-90/3099 der Plakatsammlung 1945-1990
-4019 Plakat Nr. 1945-90/3099 der Plakatsammlung 1945-1990
-4030 [Sowjetische Besatzungszone] : [Verlag nicht ermittelbar]
+4000 Plakat Nr. 1945-90/5458 der Plakatsammlung 1945-1990
+4019 Plakat Nr. 1945-90/5458 der Plakatsammlung 1945-1990
+4030 [BRD] : [Verlag nicht ermittelbar]
 4060 1 ungezähltes Blatt
 4062 Format B
 4105 !1238824013!
-4276 nachträglich durch Auswertung der 4201
 5590 [Objektgattung]
 5590 !041133579!
-7001 02-03-22 : x
-7100 GS PL 1945-90/3099 @ m
-4801 Risse kleiner als 3 cm
+7001 24-08-22 : x
+4800 !009033645! 
+4801 Faltspuren, Eckenknick
 6800 [Provenienz]
 6800 !004709608! *1961-1993
 6800 Stempel
-7109 !!DBSM/S!! ; GS PL {row.Signatur}
+7100 GS PL 1945-90/5458 @ m
+7109 !!DBSM/S!! ; GS PL 1945-90/5458
 8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.
-8598 78/53/P156(29)
-
+8598 78/68/P285(2)
+	
 0500 Pa
 0501 Text$btxt
 0502 ohne Hilfsmittel zu benutzen$bn
@@ -147,20 +148,21 @@
 1500 /1ger
 1700 /1XA-DE
 2105 04,P01
-4000 Plakat Nr. 1945-90/13236 der Plakatsammlung 1945-1990
-4019 Plakat Nr. 1945-90/13236 der Plakatsammlung 1945-1990
-4030 [Gera] : [Verlag nicht ermittelbar]
+4000 Plakat Nr. 1945-90/15263 der Plakatsammlung 1945-1990
+4019 Plakat Nr. 1945-90/15263 der Plakatsammlung 1945-1990
+4030 [Sowjetische Besatzungszone] : [Verlag nicht ermittelbar]
 4060 1 ungezähltes Blatt
-4062 Format B
+4062 Format A
 4105 !1238824013!
-4276 nachträglich durch Auswertung der 4201
+4700 |BSM|*1 Dublette(n) entnommen
 5590 [Objektgattung]
 5590 !041133579!
-7001 02-03-22 : x
-7100 GS PL 1945-90/13236 @ m
-4801 Verfärbungen
+7001 24-08-22 : x
+4800 !009033645! 
 6800 [Provenienz]
 6800 !004709608! *1961-1993
 6800 Stempel
-7109 !!DBSM/S!! ; GS PL {row.Signatur}
+7100 GS PL 1945-90/15263 @ m
+7109 !!DBSM/S!! ; GS PL 1945-90/15263
 8034 Dieses Plakat ist Teil eines Erschließungsprojekts und derzeit nicht ausleihbar.
+	
